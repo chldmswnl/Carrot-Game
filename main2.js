@@ -1,9 +1,9 @@
 "use strict";
 
 const carrot_size = 80;
-const bug_count = 5;
-const gameDuration = 5;
-const carrot_count = 5;
+const bug_count = 10;
+const gameDuration = 10;
+const carrot_count = 10;
 
 const field = document.querySelector(".game_field");
 const fieldRect = field.getBoundingClientRect();
